@@ -107,14 +107,6 @@ export default function _ServicesOffer() {
 	return (
 		<SectionServices id="section-services">
 			<ContainerGrid>
-				<ScrollAnimation animateIn="fadeIn" animateOnce delay={200}>
-					<CardService>
-						<MagnifyingGlass />
-						<h3>{language.servicesOffer.cards.forensique.title}</h3>
-						<p>{language.servicesOffer.cards.forensique.contentText}</p>
-					</CardService>
-				</ScrollAnimation>
-
 				<ScrollAnimation animateIn="fadeIn" animateOnce delay={400}>
 					<CardService>
 						<ShieldKeyhole />
