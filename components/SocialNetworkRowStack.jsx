@@ -71,8 +71,8 @@ export default function SocialNetworkRowStack() {
 				<MailSend />
 			</ButtonSocialMediaIcon>
 
-			<ButtonSocialMediaIcon href="https://twitter.com/_ThomasDx_" target="_blank">
-				<Twitter />
+			<ButtonSocialMediaIcon href="https://www.instagram.com/majdad2000/" target="_blank">
+				<Instagram />
 			</ButtonSocialMediaIcon>
 
 		</SocialMediaContainer>
