@@ -170,10 +170,10 @@ export default function LayoutTemplate({ children }) {
 		<>
 			<HeaderContainer>
 				<Fade top delay={100} duration={200}>
-					<Link style={{ textDecoration: "none" }} href="https://0xtter.com" passHref>
+					<Link style={{ textDecoration: "none" }} href="https://majd-ad-portfolio.vercel.app/" passHref>
 						<LogoContainer>
 							<LogoText>
-								<CaracteresLogo>&lt;</CaracteresLogo>0xtter <CaracteresLogo>/&gt;</CaracteresLogo>
+								<CaracteresLogo>&lt;</CaracteresLogo>Majd-Ad <CaracteresLogo>/&gt;</CaracteresLogo>
 							</LogoText>
 						</LogoContainer>
 					</Link>
