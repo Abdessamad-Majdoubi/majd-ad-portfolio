@@ -122,13 +122,6 @@ export default function _ServicesOffer() {
 						<p>{language.servicesOffer.cards.devsecops.contentText}</p>
 					</CardService>
 				</ScrollAnimation>
-				<ScrollAnimation animateIn="fadeIn" animateOnce delay={600}>
-					<CardService>
-						<Password />
-						<h3>{language.servicesOffer.cards.pentesting.title}</h3>
-						<p>{language.servicesOffer.cards.pentesting.contentText}</p>
-					</CardService>
-				</ScrollAnimation>
 				<ScrollAnimation animateIn="fadeIn" animateOnce delay={800}>
 					<CardService>
 						<CodeBlock />
