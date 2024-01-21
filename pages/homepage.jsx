@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+ccccccccccimport React, { useContext } from "react";
 
 //Third's librarys
 import styled from "styled-components";
@@ -162,15 +162,15 @@ export default function HomePage() {
 			<FloatNavigationBar />
 			<ProgressBar color={theme.colors.branding} height={5} />
 			<Head
-				title="Thomas Desrumeaux | Portfolio"
-				metaDescription="Portfolio de Thomas Desrumeaux, projets et compétences"
-				keywords="Thomas Desrumeaux, Cybersécurité, Programmation, CSIRT, Pentesting"
+				title="Majdoubi Abdessamad | Portfolio"
+				metaDescription="Portfolio de Majdoubi Abdessamad, projets et compétences"
+				keywords="Majdoubi Abdessamad, Cybersécurité, Programmation"
 			/>
 			<LandingPageContainer>
 
 				<TitleLandingContainer>
 					<SubTitleLanding>{language.landingPage.apresentationText}</SubTitleLanding>
-					<Typed strings={["Thomas Desrumeaux"]} typeSpeed={80} className="type-string " />
+					<Typed strings={["Majdoubi Abdessamad"]} typeSpeed={80} className="type-string " />
 					<SubTitleLanding>{language.landingPage.resumeText}</SubTitleLanding>
 					<a href="#section-a-propos" onClick={scrollToSection}>
 						<ButtonSaibaMais>{language.landingPage.buttonText}</ButtonSaibaMais>
