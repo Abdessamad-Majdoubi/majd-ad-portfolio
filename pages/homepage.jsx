@@ -1,4 +1,4 @@
-ccccccccccimport React, { useContext } from "react";
+import React, { useContext } from "react";
 
 //Third's librarys
 import styled from "styled-components";
