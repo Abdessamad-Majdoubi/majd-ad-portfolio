@@ -290,7 +290,7 @@ export default function FooterPage(props) {
 				<ScrollAnimation animateIn="fadeIn" animateOnce delay={400}>
 					<SectionFooterMenu>
 						<FooterTextTitle>{language.footer.labelSourceCode.title}</FooterTextTitle>
-						<FooterTextExternalLink href="https://github.com/0xtter/Portfolio" target="_blank">
+						<FooterTextExternalLink href="https:/https://github.com/Abdessamad-Majdoubi/majd-ad-portfolio" target="_blank">
 							Github
 						</FooterTextExternalLink>
 					</SectionFooterMenu>
