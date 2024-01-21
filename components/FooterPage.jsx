@@ -235,7 +235,7 @@ export default function FooterPage(props) {
 	}, []);
 
 	async function getLastCommit() {
-		const response = await fetch("https://api.github.com/repos/0xtter/Portfolio/commits");
+		const response = await fetch("https://api.github.com/repos/Abdessamad-Majdoubi/majd-ad-portfolio/commits");
 		const json = await response.json();
 		try {
 			setCommit(json[0].sha.slice(0, 6));
