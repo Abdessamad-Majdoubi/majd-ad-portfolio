@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 import { MailSend } from "@styled-icons/boxicons-regular/MailSend";
 import { LinkedinSquare } from "@styled-icons/boxicons-logos/LinkedinSquare";
-import { Twitter } from "@styled-icons/boxicons-logos/Twitter";
+import { Instagram } from "@styled-icons/boxicons-logos/Instagram";
 import { Github } from "@styled-icons/bootstrap/Github";
 
 const SocialMediaContainer = styled.div`
@@ -63,16 +63,12 @@ export default function SocialNetworkRowStack() {
 	return (
 		<SocialMediaContainer>
 
-			<ButtonSocialMediaIcon href="https://github.com/0xtter" target="_blank">
+			<ButtonSocialMediaIcon href="https://github.com/Abdessamad-Majdoubi" target="_blank">
 				<Github />
 			</ButtonSocialMediaIcon>
 
-			<ButtonSocialMediaIcon href="mailto:contact.0xtter@gmail.com" target="_blank">
+			<ButtonSocialMediaIcon href="mailto:admajd2007@gmail.com" target="_blank">
 				<MailSend />
-			</ButtonSocialMediaIcon>
-
-			<ButtonSocialMediaIcon href="https://www.linkedin.com/in/thomasdesrumeaux/	" target="_blank" data-splitbee-event="linkedin-access">
-				<LinkedinSquare />
 			</ButtonSocialMediaIcon>
 
 			<ButtonSocialMediaIcon href="https://twitter.com/_ThomasDx_" target="_blank">
