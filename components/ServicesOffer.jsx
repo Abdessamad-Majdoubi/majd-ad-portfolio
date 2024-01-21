@@ -12,7 +12,7 @@ import { CodeBlock } from "@styled-icons/boxicons-regular/CodeBlock";
 import { SettingsContext } from "@/context/SettingsContext";
 
 const CardService = styled.div`
-	display: flex;
+	display: center;
 	align-items: center;
 	justify-content: flex-start;
 	flex-direction: column;
