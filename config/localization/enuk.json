@@ -1,83 +1,83 @@
 {
-	"id": "frfr",
+	"id": "enuk",
 	"navbarMenu": {
-		"labelHome": "MENU PRINCIPAL",
-		"labelServices": "MES DOMAINES",
+		"labelHome": "MAIN MENU",
+		"labelServices": "MY DOMAINS",
 		"labelAboutMe": "WHOAMI",
-		"labelPortifolio": "PROJETS",
+		"labelPortifolio": "PROJECTS",
 		"labelExperience": "EXPERIENCES"
 	},
 	"landingPage": {
 		"apresentationText": "Hello World,",
-		"typeText": "Thomas Desrumeaux",
-		"resumeText": "Fasciné par l’informatique et par ses enjeux sécuritaires, je m’oriente dans les métiers de la cybersécurité. Créatif et persévérant, j’aime relever les défis en équipe pour répondre aux enjeux actuels en termes de sécurité informatique.",
-		"buttonText": "A propos de moi"
+		"typeText": "Majdoubi Abdessamad",
+		"resumeText": "Fascinated by computers and their security challenges, I am oriented towards cybersecurity careers. Creative and persistent, I enjoy tackling challenges as a team to address current issues in terms of computer security.",
+		"buttonText": "About Me"
 	},
 	"servicesOffer": {
-		"title": "Mes domaines",
+		"title": "My Domains",
 		"cards": {
-			"forensique": {
-				"title": "Forensique",
-				"contentText": "Solide connaissances des principes de base de la forensique informatique, y compris les méthodes d'acquisition de données, d'analyse des données et de présentation des preuves."
+			"forensics": {
+				"title": "Forensics",
+				"contentText": "Solid understanding of basic principles of digital forensics, including data acquisition methods, data analysis, and evidence presentation."
 			},
 			"devsecops": {
 				"title": "DevSecOps",
-				"contentText": "Forte compréhension du développement, de la sécurité informatique et de la conformité réglementaire. Compétent en CI/CD, sécurité réseau, tests d'intrusion."
+				"contentText": "Strong understanding of development, computer security, and regulatory compliance. Proficient in CI/CD, network security, and penetration testing."
 			},
 			"pentesting": {
-				"title": "Pentesting",
-				"contentText": "Test d'intrusion et vulnérabilités courantes. Reconnaissance, exploitation, post-exploitation et reporting. Indentification et correction des vulnérabilités pour assurer la sécurité des systèmes et des réseaux."
+				"title": "Penetration Testing",
+				"contentText": "Penetration testing and common vulnerabilities. Reconnaissance, exploitation, post-exploitation, and reporting. Identifying and fixing vulnerabilities to ensure the security of systems and networks."
 			},
-			"developpement": {
-				"title": "Développement",
-				"contentText": "Expertise en Java, Python, C++, JavaScript, Bash, Docker et autres. Utilisation avancée de Github pour la gestion de versions et la collaboration sur des projets personnels et professionnels. "
+			"development": {
+				"title": "Development",
+				"contentText": "Expertise in Java, Python, C++, JavaScript, Bash, Docker, and more. Advanced use of GitHub for version control and collaboration on personal and professional projects."
 			}
 		}
 	},
 	"aboutMePage": {
 		"title": "WHOAMI",
-		"paragraph_one": "Ingénieur en cybersécurité Cyberdefense, spécialisé en CSIRT. Passionné par la protection des données et la sécurité informatique, j'ai acquis une expertise dans la mise en place de systèmes de sécurité robustes pour diverses entreprises. Compétences en tests de pénétration, conformité réglementaire et gestion des incidents. 🛡️",
-		"paragraph_two": "En tant que fervent self-hosteur, je crois en la nécessité de contrôler ses propres données. Spécialisé dans l'hébergement de sites web, applications et services, je partage mes connaissances pour encourager l'autonomie numérique. 🌐",
-		"paragraph_three": "Mon objectif : fournir des solutions de sécurité avancées tout en facilitant l'accès à l'autonomie technologique pour tous. Let's secure and empower together! 🚀",
-	 "github_card": {
+		"paragraph_one": "Cyberdefense cybersecurity engineer, specialized in CSIRT. Passionate about data protection and computer security, I have expertise in establishing robust security systems for various companies. Skills include penetration testing, regulatory compliance, and incident management. 🛡️",
+		"paragraph_two": "As a fervent self-hoster, I believe in the need to control one's own data. Specialized in hosting websites, applications, and services, I share my knowledge to encourage digital autonomy. 🌐",
+		"paragraph_three": "My goal: provide advanced security solutions while facilitating access to technological autonomy for everyone. Let's secure and empower together! 🚀",
+		"github_card": {
 			"followers": "followers",
 			"following": "following",
 			"repos": "repos"
 		},
-		"alt_dev_img": "Thomas Desrumeaux"
+		"alt_dev_img": "Majdoubi Abdessamad"
 	},
 	"portifolioPage": {
-		"title": "PROJETS",
-		"labelFilter": "TOUS",
-		"createdLabel": "Créé le"
+		"title": "PROJECTS",
+		"labelFilter": "ALL",
+		"createdLabel": "Created on"
 	},
 	"experiencePage": {
 		"title": "EXPERIENCES",
 		"timeline": {
 			"labelPosition": "Position",
-			"labelTitle": "Intitulé",
-			"labelCompany": "Entreprise",
-			"labelCategory": "Catégorie",
+			"labelTitle": "Title",
+			"labelCompany": "Company",
+			"labelCategory": "Category",
 			"labelInstitution": "Institution",
-			"labelProfessionalCourse": "Cours professionnels",
-			"labelBachelorDegree": "Baccalauréat",
-			"labelExtensionCourse": "Cours d'extension"
+			"labelProfessionalCourse": "Professional Course",
+			"labelBachelorDegree": "Bachelor's Degree",
+			"labelExtensionCourse": "Extension Course"
 		}
 	},
 	"footer": {
 		"labelNavigation": {
 			"title": "Navigation",
-			"labelHome": "Menu principal",
-			"labelServices": "Mes domaines",
+			"labelHome": "Main Menu",
+			"labelServices": "My Domains",
 			"labelAboutMe": "Whoami",
-			"labelPortifolio": "Projets",
-			"labelExperience": "Expériences"
+			"labelPortifolio": "Projects",
+			"labelExperience": "Experiences"
 		},
 		"labelHost": {
-			"title": "HEBERGEMENT"
+			"title": "HOSTING"
 		},
 		"labelSourceCode": {
-			"title": "CODE SOURCE"
+			"title": "SOURCE CODE"
 		},
 		"labelTechs": {
 			"title": "TECHNOLOGIES"
